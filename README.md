@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @avrged
-- Kinda new in this, currently taking Harvard's CS50x course!
-- I'm also focusing mainly on Python
-- I want to learn deeply A.I. and Machine Learning someday.
+all about data and math
