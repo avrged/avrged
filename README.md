@@ -1,4 +1,4 @@
-# Hello, I'm Eduardo / Avrg
+# Hello, I'm avrg
 
 ## About Me
 
