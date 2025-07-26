@@ -3,16 +3,9 @@
   <p><em>Ingeniería en Software</em></p>
 </div>
 
-## Datos
+## Pequeño resumen sobre mí
 
 Estudiante de Ingeniería en Software con interés en el análisis de datos.
-
-### Sobre mí
-
--  Estudiante de Ingeniería en Software
--  Interesado en análisis de datos y visualización
--  Desarrollando proyectos que combinan programación y datos
--  Aprendiendo constantemente nuevas tecnologías
 
 ### Stack tecnológico
 
