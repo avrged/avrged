@@ -7,7 +7,7 @@
 
 Estudiante de Ingeniería en Software con interés en el análisis de datos.
 
-### Stack tecnológico
+### Tecnologías con las que he trabajado
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
