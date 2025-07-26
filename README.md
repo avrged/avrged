@@ -56,10 +56,10 @@ Estudiante de Ingeniería en Software con interés en el análisis de datos.
 ### Contacto
 
 <div align="center">
-  <a href="mailto:tu@email.com">
+  <a href="mailto:edmontoyanobl@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tuperfildelinkedin">
+  <a href="https://www.linkedin.com/in/eduardo-montoya-noble-1b8bb6214/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
