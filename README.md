@@ -3,8 +3,6 @@
   <p><em>Ingeniería en Software</em></p>
 </div>
 
-## Pequeño resumen sobre mí
-
 Estudiante de Ingeniería en Software con interés en el análisis de datos.
 
 ### Tecnologías con las que he trabajado
@@ -18,33 +16,12 @@ Estudiante de Ingeniería en Software con interés en el análisis de datos.
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-### Proyectos que valen la pena mencionar
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/avrged/dist_calc_vis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=avrged&repo=dist_calc_vis&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Lo que hago en números
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avrged&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&show_icons=true" alt="avrged's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrged&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="avrged's most used languages" />
 </div>
 
 <br clear="both" />
-
-### Áreas de enfoque
-
-- Análisis de datos
-- Desarrollo web
-- Aplicaciones de escritorio
-- Matemáticas aplicadas
 
 ### Contacto
 
