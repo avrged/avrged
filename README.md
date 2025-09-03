@@ -7,13 +7,7 @@ Estudiante de Ingeniería en Software con interés en el análisis de datos.
 
 ### Tecnologías con las que he trabajado
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <div>
